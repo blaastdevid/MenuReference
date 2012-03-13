@@ -1,0 +1,17 @@
+{
+	"style": {
+		"background-color": "black",
+		"color": "white",
+		"border": 10
+	},
+
+	"contents": [
+		{
+			"control": "TextView",
+			"label": "one",
+			"style": {
+				"color": "white"
+			}
+		}
+	]
+}

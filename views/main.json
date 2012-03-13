@@ -1,0 +1,12 @@
+{
+	"style": {
+		"background-color": "black",
+		"color": "white",
+		"border": 10,
+		"padding": 2,
+		"overflow": "auto"
+	},
+
+	"contents": [
+	]
+}
